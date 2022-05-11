@@ -30,7 +30,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://imdb-video.media-imdb.com/vi1637073689/1434659607842-pgv4ql-1633426737408.mp4?Expires=1652356789&Signature=NuDhJV5IFvEpeGuSQXE8U15vHjrwG5AOvV6x3hBEvHJpcSBzL06P7JdQLRPYaixjW5jpecaR5lnDiJ6y5GzqUIskPZG7EuOgwPsvdXboDsqwAMl4d62taoWG7FvdU0KUlrVcf2pNCrcbuQcEqvO0fFkvkS7qq5RWk5IzM0rHIGnHGLOSPqyADPazpCAIhi3rltBOz4xDC6bDO1PBtPkOw7H741YBsJQhgxyQW~OO9Up5vjiYa9au0WjOqJLgc3SYI3gWRjaQog1LufntLMMLFobxUrgq89fKkow670obb7NrlbPIIzTzz6vwCiQEcd-n6sbJ698SkgrlPgaUohnEeQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+          src="https://nl17.seedr.cc/ff_get/1162405270/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.1080p.HC.WEBRip.1600MB.DD2.0.x264-GalaxyRG.mkv?st=X2aQi85H2ky7Iyta52OWtQ&e=1652363976"
           type="video/mp4"
         />
       </video>
