@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://see.news/wp-content/uploads/2021/07/1231-1024x512-1.jpg"
+        poster="https://film-authority.com/wp-content/uploads/2022/04/Fantastic-Beasts-Secrets-of-Dumbledore-review.jpg"
         data-setup=""
         loop
       >
