@@ -30,7 +30,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://nl29.seedr.cc/ff_get/1162414735/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.720p.HC.WEBRip.900MB.x264-GalaxyRG.mkv?st=9chZZJmXSOxwadya25Dl0Q&e=1652365135"
+          src="https://nw13.seedr.cc/ff_get/1162424306/Candy.2022.S01E03.WEB.x264-TORRENTGALAXY.mkv?st=KHkuiUyZkCBy49US2oxWiQ&e=1652365255"
           type="video/mp4"
         />
       </video>
