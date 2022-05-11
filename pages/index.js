@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://images.hindustantimes.com/img/2022/04/08/1600x900/fantastic_beasts_secrets_of_dumbledore_review_1649402674130_1649402674316.png"
+        poster="https://www.heavenofhorror.com/wp-content/uploads/2022/05/Candy-2022-review-hulu.jpg"
         data-setup=""
         loop
       >
