@@ -25,12 +25,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://see.news/wp-content/uploads/2021/07/1231-1024x512-1.jpg"
+        poster="https://www.heavenofhorror.com/wp-content/uploads/2022/05/Candy-2022-review-hulu.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://imdb-video.media-imdb.com/vi1637073689/1434659607842-pgv4ql-1633426737408.mp4?Expires=1652356789&Signature=NuDhJV5IFvEpeGuSQXE8U15vHjrwG5AOvV6x3hBEvHJpcSBzL06P7JdQLRPYaixjW5jpecaR5lnDiJ6y5GzqUIskPZG7EuOgwPsvdXboDsqwAMl4d62taoWG7FvdU0KUlrVcf2pNCrcbuQcEqvO0fFkvkS7qq5RWk5IzM0rHIGnHGLOSPqyADPazpCAIhi3rltBOz4xDC6bDO1PBtPkOw7H741YBsJQhgxyQW~OO9Up5vjiYa9au0WjOqJLgc3SYI3gWRjaQog1LufntLMMLFobxUrgq89fKkow670obb7NrlbPIIzTzz6vwCiQEcd-n6sbJ698SkgrlPgaUohnEeQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+          src="https://nw13.seedr.cc/ff_get/1162424306/Candy.2022.S01E03.WEB.x264-TORRENTGALAXY.mkv?st=KHkuiUyZkCBy49US2oxWiQ&e=1652365255"
           type="video/mp4"
         />
       </video>
