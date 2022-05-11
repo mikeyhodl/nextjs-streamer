@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://film-authority.com/wp-content/uploads/2022/04/Fantastic-Beasts-Secrets-of-Dumbledore-review.jpg"
+        poster="https://images.hindustantimes.com/img/2022/04/08/1600x900/fantastic_beasts_secrets_of_dumbledore_review_1649402674130_1649402674316.png"
         data-setup=""
         loop
       >
