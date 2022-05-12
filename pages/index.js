@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://www.heavenofhorror.com/wp-content/uploads/2022/05/Candy-2022-review-hulu.jpg"
+        poster="https://variety.com/wp-content/uploads/2021/12/Operation-Mincemeat.jpg"
         data-setup=""
         loop
       >
