@@ -25,12 +25,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://www.heavenofhorror.com/wp-content/uploads/2022/05/Candy-2022-review-hulu.jpg"
+        poster="https://static3.srcdn.com/wordpress/wp-content/uploads/2022/04/operation-minemeat-featured-SR.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://nw13.seedr.cc/ff_get/1162424306/Candy.2022.S01E03.WEB.x264-TORRENTGALAXY.mkv?st=KHkuiUyZkCBy49US2oxWiQ&e=1652365255"
+          src="https://nw1.seedr.cc/ff_get/1162770656/Operation.Mincemeat.2021.WEBRip.x264-ION10.mp4?st=Yeebim6aAeiF7H8Dsnj8bg&e=1652434351"
           type="video/mp4"
         />
       </video>
