@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://variety.com/wp-content/uploads/2021/12/Operation-Mincemeat.jpg"
+        poster="https://static3.srcdn.com/wordpress/wp-content/uploads/2022/04/operation-minemeat-featured-SR.jpg"
         data-setup=""
         loop
       >
