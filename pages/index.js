@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://static3.srcdn.com/wordpress/wp-content/uploads/2022/04/operation-minemeat-featured-SR.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653167896/wallhaven-l3o19p_vunoyq.jpg"
         data-setup=""
         loop
       >
