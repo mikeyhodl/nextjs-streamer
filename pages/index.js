@@ -30,7 +30,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://nw1.seedr.cc/ff_get/1162770656/Operation.Mincemeat.2021.WEBRip.x264-ION10.mp4?st=aMU23t7tYHqZezV_Th-2bw&e=1652512417"
+          src="https://res.cloudinary.com/weknow-creators/video/upload/v1653168090/trailers/1434659607842-pgv4ql-1652710075317_yl4leq.mp4"
           type="video/mp4"
         />
       </video>
