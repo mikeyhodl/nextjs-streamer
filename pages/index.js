@@ -25,7 +25,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653168464/trailers/maxresdefault_oqgrgi.jpg"
+        poster="https://www.moviesonline.ca/wp-content/uploads/2022/04/1649920178_She-Hulk-MCU-heroine-in-graphics-Is-the-series-late.jpeg"
         data-setup=""
         loop
       >
