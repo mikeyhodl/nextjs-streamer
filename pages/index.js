@@ -25,12 +25,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653167896/wallhaven-l3o19p_vunoyq.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653168464/trailers/maxresdefault_oqgrgi.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://res.cloudinary.com/weknow-creators/video/upload/v1653168090/trailers/1434659607842-pgv4ql-1652710075317_yl4leq.mp4"
+          src="https://res.cloudinary.com/weknow-creators/video/upload/v1653168379/trailers/1434659607842-pgv4ql-1652839623265_o1yv8n.mp4"
           type="video/mp4"
         />
       </video>
