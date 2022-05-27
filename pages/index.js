@@ -25,12 +25,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://www.moviesonline.ca/wp-content/uploads/2022/04/1649920178_She-Hulk-MCU-heroine-in-graphics-Is-the-series-late.jpeg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653663273/scale_vpdzyr.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://res.cloudinary.com/weknow-creators/video/upload/v1653168379/trailers/1434659607842-pgv4ql-1652839623265_o1yv8n.mp4"
+          src="https://nw7.seedr.cc/ff_get/1172198405/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4?st=SKBVNwU1ov4NDKLSSTkvGg&e=1653749814"
           type="video/mp4"
         />
       </video>
