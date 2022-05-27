@@ -25,12 +25,13 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://static3.srcdn.com/wordpress/wp-content/uploads/2022/04/operation-minemeat-featured-SR.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653663273/scale_vpdzyr.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://nw1.seedr.cc/ff_get/1162770656/Operation.Mincemeat.2021.WEBRip.x264-ION10.mp4?st=v_Z2G5JtfGj3RITyuGCw4A&e=1652511680"
+          src="https://nw7.seedr.cc/ff_get/1172198405/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4?st=SKBVNwU1ov4NDKLSSTkvGg&e=1653749814"
+
           type="video/mp4"
         />
       </video>
