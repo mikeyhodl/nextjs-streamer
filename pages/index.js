@@ -14,10 +14,7 @@ export default function Home() {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Questrial"
         />
-        <link
-          rel="shortcut icon"
-          href="https://res.cloudinary.com/weknow-creators/image/upload/v1646741025/nficon2016_vtrp5i_g2oels.png"
-        />
+        <link rel="icon" href="/favicon.png" />
         <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css" />
       </head>
       <video
@@ -31,7 +28,6 @@ export default function Home() {
       >
         <source
           src="https://nw7.seedr.cc/ff_get/1172198405/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4?st=SKBVNwU1ov4NDKLSSTkvGg&e=1653749814"
-
           type="video/mp4"
         />
       </video>
