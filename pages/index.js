@@ -31,6 +31,7 @@ export default function Home() {
       >
         <source
           src="https://nw7.seedr.cc/ff_get/1172198405/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4?st=SKBVNwU1ov4NDKLSSTkvGg&e=1653749814"
+
           type="video/mp4"
         />
       </video>
