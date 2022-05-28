@@ -27,7 +27,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://de18.seedr.cc/ff_get/1172697768/Pets%20United%20(2020)%20%20[1080p%20x265%2010bit%20FS91%20Joy].mkv?st=wqlT7uPh-NvUwMrfPgzdQw&e=1653813107"
+          src="https://de20.seedr.cc/ff_get/1172733512/Pets.United.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=Gl_hxIsbWh355LXWRplxAg&e=1653818060"
           type="video/mp4"
         />
       </video>
