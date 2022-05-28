@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653663273/scale_vpdzyr.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653727178/SagjlE_dtip3s.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://nw7.seedr.cc/ff_get/1172198405/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4?st=SKBVNwU1ov4NDKLSSTkvGg&e=1653749814"
+          src="https://de18.seedr.cc/ff_get/1172697768/Pets%20United%20(2020)%20%20[1080p%20x265%2010bit%20FS91%20Joy].mkv?st=wqlT7uPh-NvUwMrfPgzdQw&e=1653813107"
           type="video/mp4"
         />
       </video>
