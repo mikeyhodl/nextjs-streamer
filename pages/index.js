@@ -27,7 +27,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://de20.seedr.cc/ff_get/1172733512/Pets.United.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=Gl_hxIsbWh355LXWRplxAg&e=1653818060"
+          src="https://imdb-video.media-imdb.com/vi1425785369/1434659607842-pgv4ql-1653593128777.mp4?Expires=1654262423&Signature=rOQr9xvH9JXUUSRAsH16EsJ1qWTaCy9pQYzHypaISNHfO9joeeReS2qMvSyt-HLv~IzrylSivc2pjgT4YHorqfrmJfb7I1NRUd-Nb~qjz32e~TrGI4fN-YWeKcYkI1EzjNtkM2d52bpsW8YZ-ycEhhGpBfOFfwo3H6kyFHYJDlmsccuoYhnGG1BJjvzhQlIV-0JMYdRIYFMX6a1d6jNrIiM9dDjHIroI3RjP7SuDgGpQ6xAPwbdIrf3UjMJo7dPdSJ9o1IqYYwRhefOvijz-GXtRkDTzPRTqtbGnAoA~S4i~WKXsMP4MOCVSfkix8nAu-5rzjf8EnlC54NCAR8nAYA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
           type="video/mp4"
         />
       </video>
