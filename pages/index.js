@@ -22,7 +22,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653727178/SagjlE_dtip3s.jpg"
+        poster="https://www.denofgeek.com/wp-content/uploads/2017/07/captain_underpants.jpg?fit=1920%2C1080"
         data-setup=""
         loop
       >
