@@ -27,7 +27,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://res.cloudinary.com/weknow-creators/video/upload/v1654177193/trailers/1434659607842-pgv4ql-1653593128777_k2khcp.mp4"
+          src="https://de25.seedr.cc/ff_get/1181267706/Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-[YTS.AG].mp4?st=jjvBw5BcUN0iC6PtStuUNQ&e=1654962129"
           type="video/mp4"
         />
       </video>
