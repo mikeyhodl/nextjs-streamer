@@ -27,7 +27,7 @@ export default function Home() {
         loop
       >
         <source
-          src="https://nw12.seedr.cc/ff_get/1181919539/Chip.n.Dale.Rescue.Rangers.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=vsYPpAWGRKJeiNciRRHRYw&e=1655051645"
+          src="https://rs3.seedr.cc/ff_get/1181920267/Chip.n.Dale.Rescue.Rangers.2022.WEBRip.x264-ION10.mp4?st=uDTcH9OqtD15QNW02TtV0g&e=1655055123"
           type="video/mp4"
         />
       </video>
