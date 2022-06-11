@@ -22,7 +22,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E412AE1A9527DD9D4B6DDCB089DCA8369DB54EB1E05AD65ADDA124B7E7830C97/scale?width=1200&aspectRatio=1.78&format=jpeg"
+        poster="https://www.techaiapp.com/wp-content/uploads/2022/04/%E2%80%98Chip-%E2%80%98N-Dale-Rescue-Rangers-Gets-New-Trailer-Poster.jpg"
         data-setup=""
         loop
       >
