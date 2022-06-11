@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1654934371/EG18buCUcAM49GC_uvkn51.jpg"
+        poster="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E412AE1A9527DD9D4B6DDCB089DCA8369DB54EB1E05AD65ADDA124B7E7830C97/scale?width=1200&aspectRatio=1.78&format=jpeg"
         data-setup=""
         loop
       >
         <source
-          src="https://rs18.seedr.cc/ff_get/1181675861/Garfield.A.Tail.Of.Two.Kitties.2006.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4?st=SUsWhjOosb1fKKp0Gpg08A&e=1655020473"
+          src="https://rs2.seedr.cc/ff_get/1181918094/Chip.n.Dale.Rescue.Rangers.2022.1080p.WEBRip.x265-RARBG.mp4?st=_AZUZgE_TCUE8n3L_NJ33g&e=1655051437"
           type="video/mp4"
         />
       </video>
