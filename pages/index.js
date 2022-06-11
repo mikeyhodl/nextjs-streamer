@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1654877269/captain_underpants_ulxhj6.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1654934371/EG18buCUcAM49GC_uvkn51.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://de25.seedr.cc/ff_get/1181267706/Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-[YTS.AG].mp4?st=jjvBw5BcUN0iC6PtStuUNQ&e=1654962129"
+          src="https://rs18.seedr.cc/ff_get/1181675861/Garfield.A.Tail.Of.Two.Kitties.2006.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4?st=SUsWhjOosb1fKKp0Gpg08A&e=1655020473"
           type="video/mp4"
         />
       </video>
