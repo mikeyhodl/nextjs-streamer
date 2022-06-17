@@ -22,7 +22,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://www.techaiapp.com/wp-content/uploads/2022/04/%E2%80%98Chip-%E2%80%98N-Dale-Rescue-Rangers-Gets-New-Trailer-Poster.jpg"
+        poster="https://www.pluggedin.com/wp-content/uploads/2019/12/rio.jpg"
         data-setup=""
         loop
       >
