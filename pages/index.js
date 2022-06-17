@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://www.pluggedin.com/wp-content/uploads/2019/12/rio.jpg"
+        poster="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/04/Black-Adam-Dwayne-Johnson.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://de13.seedr.cc/ff_get/1185600894/Rio.2011.1080p.BluRay.x264.YIFY.mp4?st=X5_gK5IF2z2WNKIVlCa__g&e=1655566806"
+          src="https://res.cloudinary.com/weknow-creators/video/upload/v1655487973/trailers/1434659607842-pgv4ql-1654696999319_kuugfx.mp4"
           type="video/mp4"
         />
       </video>
