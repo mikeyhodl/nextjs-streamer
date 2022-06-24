@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/04/Black-Adam-Dwayne-Johnson.jpg"
+        poster="https://i.ytimg.com/vi/42GfRs9er68/maxresdefault.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://res.cloudinary.com/weknow-creators/video/upload/v1655487973/trailers/1434659607842-pgv4ql-1654696999319_kuugfx.mp4"
+          src="https://rs7.seedr.cc/ff_get/1190243480/Ploey.2018.1080p.BluRay.x264-[YTS.AM].mp4?st=1GCtLi5RqXzNqNdBXvWBcw&e=1656174113"
           type="video/mp4"
         />
       </video>
