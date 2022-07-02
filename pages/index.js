@@ -22,7 +22,7 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1656778140/images_jczpe2.jpg"
+        poster="https://i.ytimg.com/vi/ab0pd9oNf7Q/maxresdefault.jpg"
         data-setup=""
         loop
       >
