@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://i.ytimg.com/vi/42GfRs9er68/maxresdefault.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1656778140/images_jczpe2.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://rs7.seedr.cc/ff_get/1190243480/Ploey.2018.1080p.BluRay.x264-[YTS.AM].mp4?st=1GCtLi5RqXzNqNdBXvWBcw&e=1656174113"
+          src="https://de25.seedr.cc/ff_get/1195512408/SgtStubby.An.American.Hero.2018.1080p.BluRay.x264-[YTS.AM].mp4?st=Rghw7-TvRQCDSR9Ayls6IQ&e=1656864619"
           type="video/mp4"
         />
       </video>
