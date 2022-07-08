@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://s2.dmcdn.net/v/PkO-b1XF30L6rHTOM/x1080"
+        poster="https://i.ytimg.com/vi/COXEqHGrD1k/maxresdefault.jpg"
         data-setup=""
         loop
       >
         <source
-          src="https://de15.seedr.cc/ff_get/1199313800/Woody.Woodpecker.2017.1080p.BluRay.x264-[YTS.AM].mp4?st=_m4sISKg81sU_KqyAj963A&e=1657383362"
+          src="https://de21.seedr.cc/ff_get/1199390532/Bolt.2008.1080p.BluRay.x264.YIFY.mp4?st=-s5Itnw4YILk-4s-8zkWyQ&e=1657385455"
           type="video/mp4"
         />
       </video>
