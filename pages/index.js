@@ -22,12 +22,12 @@ export default function Home() {
         class="video-js"
         controls
         preload="auto"
-        poster="https://i.ytimg.com/vi/ab0pd9oNf7Q/maxresdefault.jpg"
+        poster="https://s2.dmcdn.net/v/PkO-b1XF30L6rHTOM/x1080"
         data-setup=""
         loop
       >
         <source
-          src="https://de25.seedr.cc/ff_get/1195512408/SgtStubby.An.American.Hero.2018.1080p.BluRay.x264-[YTS.AM].mp4?st=Rghw7-TvRQCDSR9Ayls6IQ&e=1656864619"
+          src="https://de15.seedr.cc/ff_get/1199313800/Woody.Woodpecker.2017.1080p.BluRay.x264-[YTS.AM].mp4?st=_m4sISKg81sU_KqyAj963A&e=1657383362"
           type="video/mp4"
         />
       </video>
